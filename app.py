@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 API_KEY = os.environ.get('PRHyrbImXb0L8DAtNDg4aNDVvEtOCJIXGUKpQ27TLMTamg6171YhWGPYZ9owldSA')
 SECRET = os.environ.get('9tXOlBB2cmatCGtEm8CMJEUU2swZ0wM6yyPcoyu8V33L15U7qakgOi3xbkVCNMRN')
-ACCESS_TOKEN = os.environ.get('ACCESS_TOKEN', '492100')
+ACCESS_TOKEN = os.environ.get
 
 BASE = "https://api.binance.com"
 
